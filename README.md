@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**xuyua-coder/xuyua-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello my name is Eve!
+## Wlcome to my profile!
+I'll show you about myself
+Hobbies
+dancing
+singing
+playing games
+listening to music
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I chose Digital Tech...I want to learn about coding.I am interested in Digital Technology.
+I know how to use tools like Visual Studio Code,Blender and more!
